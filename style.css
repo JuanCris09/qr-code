@@ -58,7 +58,6 @@ p{
 
 .attribution{
     font-family: var(--font-text);
-    text-align: center;
 }
 
 @media (max-width: 376px){
