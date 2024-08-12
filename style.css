@@ -58,3 +58,9 @@ p{
 .attribution{
     font-family: var(--font-text);
 }
+
+@media (max-width: 376px){
+    main{
+        margin: 9.78125rem 1.71875rem 9.78125rem 1.71875rem;
+    }
+}
